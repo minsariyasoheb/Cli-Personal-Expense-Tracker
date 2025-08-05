@@ -1,0 +1,7 @@
+05/08/25 18:54 - ExpenseTracker - INFO - Expense Tracker started
+05/08/25 18:55 - AddExpense - INFO - Added expense ID 1 - ₹500.0 - Food - 'Date with Kate'
+05/08/25 18:55 - ViewExpense - INFO - Viewed all expenses
+05/08/25 18:56 - CategorySummary - INFO - Viewed category summary
+05/08/25 18:56 - LastExpense - INFO - Viewed last expense: ID 1
+05/08/25 18:56 - ExpenseByID - INFO - Viewed expense ID 1
+05/08/25 18:56 - ExpenseTracker - INFO - App exited by user
