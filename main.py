@@ -1,7 +1,6 @@
 import sys
 import logging
 
-# Setup logger
 logger = logging.getLogger("Expense Tracker")
 logger.setLevel(logging.DEBUG)
 
