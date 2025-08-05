@@ -33,16 +33,6 @@ A simple, SQLite-backed personal expense tracker in the command line.
    venv\Scripts\activate      # Windows
    ```
 
-3. **Install requirements**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   > *(If you have no extra dependencies, you can skip this step.)*
-
----
-
 ## ⚙️ Usage
 
 Run the tracker:
