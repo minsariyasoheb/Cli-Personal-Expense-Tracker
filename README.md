@@ -21,7 +21,7 @@ A simple, SQLite-backed personal expense tracker in the command line.
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/YourUsername/CLI-Personal-Expense-Tracker.git
+   git clone https://github.com/minsariyasoheb/Cli-Personal-Expense-Tracker.git
    cd CLI-Personal-Expense-Tracker
    ```
 
