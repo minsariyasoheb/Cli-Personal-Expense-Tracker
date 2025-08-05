@@ -1,6 +1,3 @@
-Here’s a template for your **README.md** that will give anyone landing on your repo a clear overview of what your CLI Expense Tracker does and how to get started:
-
-````markdown
 # CLI-Personal-Expense-Tracker
 
 A simple, SQLite-backed personal expense tracker in the command line.
